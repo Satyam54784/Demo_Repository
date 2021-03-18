@@ -38,7 +38,7 @@ void printArray(int arr[], int size)
 // Driver program to test above functions 
 int main() 
 { 
-	int arr[] = {612, 52, 112, 222, 11}; 
+	int arr[] = {6432, 5672, 36, 3785, 464}; 
 	int n = sizeof(arr)/sizeof(arr[0]); 
 	selectionSort(arr, n); 
 	printf("Sorted array: \n"); 
